@@ -1,7 +1,7 @@
       ******************************************************************
       * Author:Fabricio Perrone
       * Date:07/03/2023
-      * Purpose: study att
+      * Purpose: study 
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
